@@ -1,0 +1,25 @@
+{
+  "name": "see-it-auth-server",
+  "version": "1.0.0",
+  "description": "An suthentication server for the see-it app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NancyBabich/see-it-auth-server.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Maciek Masłowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NancyBabich/see-it-auth-server/issues"
+  },
+  "homepage": "https://github.com/NancyBabich/see-it-auth-server#readme"
+}
