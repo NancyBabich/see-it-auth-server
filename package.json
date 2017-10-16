@@ -13,7 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/NancyBabich/see-it-auth-server.git"
   },
-  "keywords": ["Node", "Express", "MongoDB", "Mongoose"],
+  "keywords": [
+    "Node",
+    "Express",
+    "MongoDB",
+    "Mongoose"
+  ],
   "author": "Maciek Masłowski",
   "license": "ISC",
   "dependencies": {
@@ -21,7 +26,8 @@
     "cors": "^2.8.4",
     "express": "^4.14.0",
     "mongodb": "^2.2.5",
-    "mongoose": "^4.5.9"
+    "mongoose": "^4.5.9",
+    "validator": "^5.6.0"
   },
   "devDependencies": {
     "expect": "^1.20.2",
